@@ -1,0 +1,8 @@
+*~
+__pycache__
+*.aux
+*.db
+*.log
+*.out
+*.pyc
+.DS_Store
